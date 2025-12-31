@@ -31,4 +31,5 @@ Password: 12345678
 2.SQL import to myPHPadmin from file
 3.use terminal with press cmd php artisan serve
 
+## Updated by GitHub AI Project upload
 
