@@ -17,3 +17,5 @@ ferdausahmed2020@gmail.com /
 12345678
 Admin: admin@admin.com /
 12345678
+
+## Updated by GitHub nasim https://github.com/FerdausAhmedNasim/laravel-Ecommerce-with-stripe-payment
